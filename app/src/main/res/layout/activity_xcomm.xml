@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ca"
+    android:backgroundTintMode="src_over"
+    android:backgroundTint="#80FFFFFF"
+    tools:context=".xcomm">
+
+    <Button
+        android:id="@+id/button23"
+        android:layout_width="219dp"
+        android:layout_height="91dp"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="take test"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:backgroundTint="#4BAFBC"
+        app:cornerRadius="100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.144" />
+
+    <Button
+        android:id="@+id/button24"
+        android:layout_width="219dp"
+        android:layout_height="91dp"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="courses"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:backgroundTint="#4BAFBC"
+        app:cornerRadius="100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button23"
+        app:layout_constraintVertical_bias="0.028" />
+
+    <Button
+        android:id="@+id/button25"
+        android:layout_width="219dp"
+        android:layout_height="91dp"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="study materials"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:backgroundTint="#4BAFBC"
+        app:cornerRadius="100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.552"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button26"
+        app:layout_constraintVertical_bias="0.124" />
+
+    <Button
+        android:id="@+id/button26"
+        android:layout_width="219dp"
+        android:layout_height="91dp"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="colleges"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:backgroundTint="#4BAFBC"
+        app:cornerRadius="100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button24"
+        app:layout_constraintVertical_bias="0.059" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="219dp"
+        android:layout_height="91dp"
+        android:fontFamily="@font/berkshire_swash"
+        android:text="talk to guides"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        app:backgroundTint="#4BAFBC"
+        app:cornerRadius="100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.552"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button25"
+        app:layout_constraintVertical_bias="0.241" />
+</androidx.constraintlayout.widget.ConstraintLayout>

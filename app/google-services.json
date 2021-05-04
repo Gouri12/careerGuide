@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167179981785",
+    "project_id": "careerguide-beb44",
+    "storage_bucket": "careerguide-beb44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167179981785:android:f64fbdf68747aea70fffc8",
+        "android_client_info": {
+          "package_name": "com.example.careerguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167179981785-1u7dvfjrl520fcda0diqil6pdcvr64vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRS2vSMSDkl-oTrHIeNIQXB5Pgdr3Bw-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167179981785-1u7dvfjrl520fcda0diqil6pdcvr64vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

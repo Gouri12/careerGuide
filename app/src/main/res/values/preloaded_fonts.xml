@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/almendra_display</item>
+        <item>@font/arbutus</item>
+        <item>@font/asset</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/caveat_brush</item>
+        <item>@font/pacifico</item>
+        <item>@font/rammetto_one</item>
+    </array>
+</resources>
